@@ -8,8 +8,8 @@ Esse é o meu repositório do desafio de projeto DIO.[Digital Innovation One] (h
 - git push: "Empurra" os dados do seu repositório local para o remoto lá no GitHub
 - git add: Adiciona uma alteração dentro do seu repositório.
 - git commit: Salva a alteração que foi feita em seu repositório.
-- git clone: clona um repositório no GitHub e joga para a sua máquina local.
-
+- git clone: Clona um repositório no GitHub e joga para a sua máquina local.
+- git status: Mostra como está a sua "árvore" do repositório, qualquer alteração será sinalizada caso não esteja tudo como foi salvo da última vez.
 ## 👀 Links Úteis
 - [LinkedIn] (https://www.linkedin.com/in/kaike-schiavo-b53a22269/)
 - [GitHub] (https://github.com/KaikeSchiavo/Origin)
